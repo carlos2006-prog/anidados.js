@@ -33,28 +33,7 @@
                 "height": 768
             }
         },
-        "openedWindows": [
-            {
-                "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/1755383089281",
-                "uiState": {
-                    "mode": 1,
-                    "x": 83,
-                    "y": 0,
-                    "width": 1200,
-                    "height": 768
-                }
-            },
-            {
-                "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/1755383089806",
-                "uiState": {
-                    "mode": 0,
-                    "x": 24,
-                    "y": 0,
-                    "width": 1318,
-                    "height": 768
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",

@@ -16,3 +16,9 @@ git remote set-url origin < [200~https://github.com/carlos2006-prog/Ejercicios.
 git remote add https://github.com/carlos2006-prog/Ejercicios.js
 git push -u origin main
 git branch
+git branch
+git add .
+git commit -m "Primer commit con ejercicios"
+git push -u origin main
+git init
+git remote add origin https://github.com/carlos2006-prog/Ejercicios.js.git

@@ -1,4 +1,3 @@
-untitled:Untitled-1 {"typeId":""}
 // promedioNotas.js
 const readline = require("readline");
 

@@ -3,3 +3,4 @@
 2025-08-16 16:25:21.637 [info] [main] Using git "2.39.5" from "git"
 2025-08-16 16:25:21.637 [info] [Model][doInitialScan] Initial repository scan started
 2025-08-16 16:25:21.637 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-16 17:14:15.122 [info] > git rev-parse --show-toplevel [27ms]
