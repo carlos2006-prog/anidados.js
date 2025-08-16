@@ -1,0 +1,6 @@
+2025-08-16 16:24:49.202 [info] update#setState idle
+2025-08-16 16:24:50.700 [error] Error: Unable to write file '/home/carlosjosuegarciaalvarado2006/.config/Code/User/globalStorage/storage.json' (EntryNotFound (FileSystemError): File to move/copy does not exist)
+    at Nu.writeFile (file:///usr/share/code/resources/app/out/main.js:147:6795)
+    at async Wb.s (file:///usr/share/code/resources/app/out/main.js:35:89829)
+2025-08-16 16:25:19.267 [info] update#setState checking for updates
+2025-08-16 16:25:19.823 [info] update#setState idle

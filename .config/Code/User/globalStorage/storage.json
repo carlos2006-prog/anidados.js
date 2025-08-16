@@ -1,0 +1,89 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "0218aeb380a0a21e2ac7fcb4ee70e4f60dc7bc5a922cb3c78e23b55a17ce8042",
+    "telemetry.devDeviceId": "5c5a900f-4846-4125-a23f-81373a5e2c4b",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1755383089281"
+            },
+            {
+                "backupFolder": "1755383089806"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1755383089281": "__default__profile__",
+            "1755383089806": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/1755383089806",
+            "uiState": {
+                "mode": 0,
+                "x": 24,
+                "y": 0,
+                "width": 1318,
+                "height": 768
+            }
+        },
+        "openedWindows": [
+            {
+                "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/1755383089281",
+                "uiState": {
+                    "mode": 1,
+                    "x": 83,
+                    "y": 0,
+                    "width": 1200,
+                    "height": 768
+                }
+            },
+            {
+                "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/1755383089806",
+                "uiState": {
+                    "mode": 0,
+                    "x": 24,
+                    "y": 0,
+                    "width": 1318,
+                    "height": 768
+                }
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

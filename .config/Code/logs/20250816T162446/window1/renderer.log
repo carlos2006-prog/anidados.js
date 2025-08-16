@@ -1,0 +1,12 @@
+2025-08-16 16:24:56.270 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 16:24:56.308 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 16:24:56.310 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 16:24:58.678 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-08-16 16:25:03.479 [info] Started local extension host with pid 1017.
+2025-08-16 16:25:04.584 [info] Started initializing default profile extensions in extensions installation folder. file:///home/carlosjosuegarciaalvarado2006/.vscode/extensions
+2025-08-16 16:25:08.408 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/carlosjosuegarciaalvarado2006/.vscode/extensions Unable to create file 'vscode-userdata:/home/carlosjosuegarciaalvarado2006/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-08-16 16:25:08.409 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/carlosjosuegarciaalvarado2006/.vscode/extensions
+2025-08-16 16:25:16.514 [warning] Creation of workbench contribution 'workbench.contrib.chatSessions' took 102ms.
+2025-08-16 16:25:19.661 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-16 16:25:22.875 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 181ms.
+2025-08-16 16:25:23.714 [info] [perf] Render performance baseline is 180ms
