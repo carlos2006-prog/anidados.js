@@ -4,11 +4,12 @@
     "telemetry.devDeviceId": "5c5a900f-4846-4125-a23f-81373a5e2c4b",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1755383089281"
-            },
+                "folderUri": "file:///home/carlosjosuegarciaalvarado2006/Trabajo.js"
+            }
+        ],
+        "emptyWindows": [
             {
                 "backupFolder": "1755383089806"
             }
@@ -16,17 +17,17 @@
     },
     "windowControlHeight": 35,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1755383089281": "__default__profile__",
-            "1755383089806": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/carlosjosuegarciaalvarado2006/Trabajo.js": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/1755383089806",
+            "folder": "file:///home/carlosjosuegarciaalvarado2006/Trabajo.js",
+            "backupPath": "/home/carlosjosuegarciaalvarado2006/.config/Code/Backups/d8e20f5e8eb926fe7f705607a9db7a8c",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 24,
                 "y": 0,
                 "width": 1318,
@@ -63,6 +64,18 @@
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "d01a7f159c8cc30f353ef5e50dfcc58d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
         }
     }
 }

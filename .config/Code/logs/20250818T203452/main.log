@@ -1,0 +1,11 @@
+2025-08-18 20:34:59.456 [info] update#setState idle
+2025-08-18 20:35:27.840 [info] update#setState checking for updates
+2025-08-18 20:35:29.455 [info] update#setState idle
+2025-08-19 18:45:37.073 [warning] No ptyHost heartbeat after 6 seconds
+2025-08-19 18:45:36.501 [info] update#setState checking for updates
+2025-08-19 18:45:38.065 [error] #3: https://update.code.visualstudio.com/api/update/linux-x64/stable/360a4e4fd251bfce169a4ddf857c7d25d1ad40da?bg=true - error undefined net::ERR_NETWORK_CHANGED
+2025-08-19 18:45:38.082 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123921)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-08-19 18:45:38.093 [info] update#setState idle
+2025-08-19 18:47:51.404 [info] Extension host with pid 772 exited with code: 0, signal: unknown.

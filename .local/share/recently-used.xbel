@@ -3,12 +3,22 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/carlosjosuegarciaalvarado2006/guia%202.js" added="2025-08-16T23:14:13.590125Z" modified="2025-08-16T23:14:13.590317Z" visited="2025-08-16T23:14:13.590127Z">
+  <bookmark href="file:///home/carlosjosuegarciaalvarado2006/guia%202.js" added="2025-08-16T23:14:13.590125Z" modified="2025-08-31T03:44:01.015858Z" visited="2025-08-16T23:14:13.590127Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/javascript"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-16T23:14:13.590133Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T03:44:01.015827Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlosjosuegarciaalvarado2006/Trabajo.js" added="2025-08-31T04:01:05.480348Z" modified="2025-08-31T04:01:05.480361Z" visited="2025-08-31T04:01:05.480350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-31T04:01:05.480356Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
